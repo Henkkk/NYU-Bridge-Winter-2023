@@ -8,7 +8,7 @@ Finally, we will explain the importance of the mathematical language for compute
 
 You should plan the week as follows: <br />
 
-* Attend our ‘Welcome Webinar’ on Tuesday 7/7 8:00pm Eastern Time (around 30 minutes). Join the webinar by going to the "Zoom" tab. If   you can't attend in person, there will be a recording of this webinar later that day. <br />
+* Attend our ‘Welcome Webinar’ on Tuesday 6/1 8:00pm Eastern Time (around 30 minutes). Join the webinar by going to the "Zoom" tab. If   you can't attend in person, there will be a recording of this webinar later that day. <br />
 * Watch “Module 1 - Fundamentals of System Hardware” video <br />
 * Watch “Module 2 – Number Systems” video <br />
 * Access the Discrete Math textbook in zyBooks. You can find instructions and the book code in the syllabus file. <br />
