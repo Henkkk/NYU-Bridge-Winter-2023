@@ -1,4 +1,4 @@
-######Agenda <br />
+## Agenda <br />
 This week we are going to give you a short introduction of the fundamentals of the computer’s hardware, so we understand the major components inside a computer and their use. <br />
 
 We will then talk about number systems, and see how it is possible to represent the same numbers in different number systems. This will help us understand how data can be represented inside the computer’s memory. <br />
@@ -18,7 +18,7 @@ Attend the weekly webinar. If you can't attend in person, there will be a record
 Solve homework assignment that will be posted on Friday <br />
 You may install a C++ IDE – follow the steps described in the installation instructions document (will be posted later this week) <br />
  
-######Objectives <br />
+## Objectives <br />
 
 Make sure that by the end of this week you: <br />
 
