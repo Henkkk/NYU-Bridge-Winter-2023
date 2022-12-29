@@ -7,8 +7,8 @@ Course end date: 17th June 2023
 
 
 Exam Schedule for 24-Week students:	
-Thursday, February 9, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time)
-Thursday, March 23, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time)
-Thursday, May 11, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time)
-Thursday, June 15, 2023 at 6:00PM EST (7:00 AM Hong Kong Time)
+Thursday, February 9, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time) <br />
+Thursday, March 23, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time) <br />
+Thursday, May 11, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time) <br />
+Thursday, June 15, 2023 at 6:00PM EST (7:00 AM Hong Kong Time) <br />
 
