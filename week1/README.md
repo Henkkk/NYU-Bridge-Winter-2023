@@ -8,15 +8,15 @@ Finally, we will explain the importance of the mathematical language for compute
 
 You should plan the week as follows: <br />
 
-* Attend our ‘Welcome Webinar’ on Tuesday 6/1 8:00pm Eastern Time (around 30 minutes). Join the webinar by going to the "Zoom" tab. If   you can't attend in person, there will be a recording of this webinar later that day. <br />
-* Watch “Module 1 - Fundamentals of System Hardware” video <br />
-* Watch “Module 2 – Number Systems” video <br />
-* Access the Discrete Math textbook in zyBooks. You can find instructions and the book code in the syllabus file. <br />
-* Complete the reading assignment “Week 1: Propositional Logic” in zyBooks <br />
-* Complete the reading assignment “Week 1: Predicate Logic” in zyBooks <br />
-* Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day <br />
-* Solve homework assignment that will be posted on Friday <br />
-* You may install a C++ IDE – follow the steps described in the installation instructions document (will be posted later this week) <br />
+- [X] Attend our ‘Welcome Webinar’ on Tuesday 6/1 8:00pm Eastern Time (around 30 minutes). Join the webinar by going to the "Zoom" tab. If   you can't attend in person, there will be a recording of this webinar later that day. <br />
+- [X] Watch “Module 1 - Fundamentals of System Hardware” video <br />
+- [X] Watch “Module 2 – Number Systems” video <br />
+- [X] Access the Discrete Math textbook in zyBooks. You can find instructions and the book code in the syllabus file. <br />
+- [X] Complete the reading assignment “Week 1: Propositional Logic” in zyBooks <br />
+- [X] Complete the reading assignment “Week 1: Predicate Logic” in zyBooks <br />
+- [X] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day <br />
+- [ ] Solve homework assignment that will be posted on Friday <br />
+- [X] You may install a C++ IDE – follow the steps described in the installation instructions document (will be posted later this week) <br />
  
 ## Objectives <br />
 
