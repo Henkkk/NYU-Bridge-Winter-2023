@@ -15,7 +15,7 @@ You should plan the week as follows: <br />
 - [X] Complete the reading assignment “Week 1: Propositional Logic” in zyBooks <br />
 - [X] Complete the reading assignment “Week 1: Predicate Logic” in zyBooks <br />
 - [X] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day <br />
-- [ ] Solve homework assignment that will be posted on Friday <br />
+- [X] Solve homework assignment that will be posted on Friday <br />
 - [X] You may install a C++ IDE – follow the steps described in the installation instructions document (will be posted later this week) <br />
  
 ## Objectives <br />
