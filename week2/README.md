@@ -11,19 +11,19 @@ In addition, we will work on our Mathematical skills, and introduce fundamental 
 
 You should plan the week as follows:
 
-* Watch “Module 3 – Hello World” video, about 10 mins long
-* Read pages 2-33 in the “Problem Solving with C++” textbook (sections: 1.1 - 1.4)
-* Install C++ IDE – follow the steps described in the installation instructions document
-* Watch “Module 4, part 1 - Data Types and Expressions” video
-* Watch “Module 4, part 2 - Data Types and Expressions” video. Covering the float and double data types as well as casting and expressions with mixed types. Parts 1 and 2 combined are about 50 mins long.
-* Watch “Module 4, part 3 - Data Types and Expressions” video. Covering the char and string data types
-* Watch “Module 4, part 4 - Data Types and Expressions” video. Covering the bool data types, as well as Boolean operators and * Boolean expressions. Parts 3 and 4 combined are about 40 minutes long. 
-* Read pages 40-74, 112-120 in the “Problem Solving with C++” textbook (sections: 2.1-2.3, 3.1)
-* Complete the reading assignment “Week 2: Rules of Inference” in zyBooks
-* Complete the reading assignment “Week 2: Direct Proofs” in zyBooks
-* Complete the reading assignment “Week 2: Additional Proving Techniques” in zyBooks
-* Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
-* Solve homework assignment that will be posted on Friday
+* [x] Watch “Module 3 – Hello World” video, about 10 mins long
+* [x] Read pages 2-33 in the “Problem Solving with C++” textbook (sections: 1.1 - 1.4)
+* [x] Install C++ IDE – follow the steps described in the installation instructions document
+* [x] Watch “Module 4, part 1 - Data Types and Expressions” video
+* [x] Watch “Module 4, part 2 - Data Types and Expressions” video. Covering the float and double data types as well as casting and expressions with mixed types. Parts 1 and 2 combined are about 50 mins long.
+* [x] Watch “Module 4, part 3 - Data Types and Expressions” video. Covering the char and string data types
+* [x] Watch “Module 4, part 4 - Data Types and Expressions” video. Covering the bool data types, as well as Boolean operators and   Boolean expressions. Parts 3 and 4 combined are about 40 minutes long. 
+* [x] Read pages 40-74, 112-120 in the “Problem Solving with C++” textbook (sections: 2.1-2.3, 3.1)
+* [ ] Complete the reading assignment “Week 2: Rules of Inference” in zyBooks
+* [ ] Complete the reading assignment “Week 2: Direct Proofs” in zyBooks
+* [ ] Complete the reading assignment “Week 2: Additional Proving Techniques” in zyBooks
+* [ ] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
+* [ ] Solve homework assignment that will be posted on Friday
 
 ## Objective
 
