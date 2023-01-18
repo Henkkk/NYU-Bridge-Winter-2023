@@ -13,4 +13,6 @@ Thursday, May 11, 2023 at 6:00PM EST	(7:00 AM Hong Kong Time) <br />
 Thursday, June 15, 2023 at 6:00PM EST (7:00 AM Hong Kong Time) <br />
 
 Zybook link: https://learn.zybooks.com/zybook/NYUCSBRWinterEXT2023 <br />
-zyBook code: NYUCSBRWinterEXT2023
+zyBook code: NYUCSBRWinterEXT2023 <br />
+Support document link <br />
+https://docs.google.com/document/d/1aZkYSM0QDneIkuwoyN0Uhv_vcYfhTuzm01thJnMF9iA/edit#heading=h.u6apiqy0ep6
