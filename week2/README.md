@@ -19,11 +19,11 @@ You should plan the week as follows:
 * [x] Watch “Module 4, part 3 - Data Types and Expressions” video. Covering the char and string data types
 * [x] Watch “Module 4, part 4 - Data Types and Expressions” video. Covering the bool data types, as well as Boolean operators and   Boolean expressions. Parts 3 and 4 combined are about 40 minutes long. 
 * [x] Read pages 40-74, 112-120 in the “Problem Solving with C++” textbook (sections: 2.1-2.3, 3.1)
-* [ ] Complete the reading assignment “Week 2: Rules of Inference” in zyBooks
-* [ ] Complete the reading assignment “Week 2: Direct Proofs” in zyBooks
-* [ ] Complete the reading assignment “Week 2: Additional Proving Techniques” in zyBooks
-* [ ] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
-* [ ] Solve homework assignment that will be posted on Friday
+* [x] Complete the reading assignment “Week 2: Rules of Inference” in zyBooks
+* [x] Complete the reading assignment “Week 2: Direct Proofs” in zyBooks
+* [x] Complete the reading assignment “Week 2: Additional Proving Techniques” in zyBooks
+* [x] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
+* [x] Solve homework assignment that will be posted on Friday
 
 ## Objective
 
