@@ -1,4 +1,4 @@
-### Agenda
+## Agenda
 
 This week we will start introducing new statements that allow us to control the flow of our programs. Till now all our programs executed the instructions in a sequential order, line after line. There are more sophisticated ways to have our executions flow. We start by introducing branching statements. These statements allow us to choose which block of instructions will be executed, based on the values of Boolean expressions.
 
@@ -14,7 +14,7 @@ You should plan the week as follows:
 * [ ] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
 * [ ] Solve homework assignment that will be posted on Friday.
 
-### Objectives
+## Objectives
 
 Make sure that by the end of this week you: <br/>
 
