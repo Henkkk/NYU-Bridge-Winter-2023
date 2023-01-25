@@ -6,12 +6,12 @@ Finally, we will talk about sets, a discrete collection on which many other disc
 
 You should plan the week as follows:
 
-* [ ] Watch “Module 5, parts 1 and 2 – Branching Statements” videos. Total length is about 70 minutes
-* [ ] Read pages 74-83, 120-138 in the “Problem Solving with C++” textbook (sections: 2.4, 3.2)
-* [ ] Complete the reading assignment “Week 3: Sets Basics” in zyBooks
-* [ ] Complete the reading assignment “Week 3: Sets Operations” in zyBooks
-* [ ] Complete the reading assignment “Week 3: Sets Identities” in zyBooks
-* [ ] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
+* [*] Watch “Module 5, parts 1 and 2 – Branching Statements” videos. Total length is about 70 minutes
+* [*] Read pages 74-83, 120-138 in the “Problem Solving with C++” textbook (sections: 2.4, 3.2)
+* [*] Complete the reading assignment “Week 3: Sets Basics” in zyBooks
+* [*] Complete the reading assignment “Week 3: Sets Operations” in zyBooks
+* [*] Complete the reading assignment “Week 3: Sets Identities” in zyBooks
+* [*] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
 * [ ] Solve homework assignment that will be posted on Friday.
 
 ## Objectives
