@@ -1,0 +1,14 @@
+### Outputting Values of Type double
+
+If you insert the following “magic formula” in your program, then all
+numbers of type double (or any other type that allows for digits after
+the decimal point) will be output in ordinary, everyday notation with two
+digits after the decimal point:
+
+cout.setf(ios::fixed);
+cout.setf(ios::showpoint);
+cout.precision(2);
+
+You can use any other nonnegative whole number in place of the 2 to
+specify a different number of digits after the decimal point. You can even
+use a variable of type int in place of the 2.
