@@ -1,3 +1,4 @@
+//In-class coding exercise
 #include <iostream>
 #include <time.h>
 using namespace std;
