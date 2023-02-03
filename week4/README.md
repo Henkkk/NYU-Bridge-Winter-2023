@@ -6,9 +6,9 @@ By using iterative statements, we will be able to express computations that are 
 You should plan the week as follows:
 
 * [x] Watch “Module 6 – Iterative Statements” video. Introducing the while and for loops as well as some strategies of how to express iterative processes.
-* [ ] Read pages 84-98, 139-165 in the “Problem Solving with C++” textbook (sections: 2.4-2.5, 3.3-3.4)
-* [ ] Attend the weekly webinar.
-* [ ] Solve homework assignment that will be posted on Friday
+* [x] Read pages 84-98, 139-165 in the “Problem Solving with C++” textbook (sections: 2.4-2.5, 3.3-3.4)
+* [x] Attend the weekly webinar.
+* [x] Solve homework assignment that will be posted on Friday
 
 
 ## Objectives
