@@ -9,13 +9,13 @@ In addition, we will work on our Mathematical skills, and introduce the function
 
 You should plan the week as follows:
 
-* [ ] Practice writing programs that use iterative statements.
-* [ ] You may want to re-watch “Module 6 – Iterative Statements” video, and/or re-read pages 84-98, 139-165 in the “Problem Solving with C++” textbook (sections: 2.4-2.5, 3.3-3.4)
-* [ ] Complete the reading assignment “Week 5: Function Definition” in zyBooks
-* [ ] Complete the reading assignment “Week 5: Properties of Functions” in zyBooks
-* [ ] Complete the reading assignment “Week 5: Composition of Functions and the Inverse Function” in zyBooks
-* [ ] Attend the weekly webinar.
-* [ ] Solve homework assignment that will be posted on Friday
+* [x] Practice writing programs that use iterative statements.
+* [x] You may want to re-watch “Module 6 – Iterative Statements” video, and/or re-read pages 84-98, 139-165 in the “Problem Solving with C++” textbook (sections: 2.4-2.5, 3.3-3.4)
+* [x] Complete the reading assignment “Week 5: Function Definition” in zyBooks
+* [x] Complete the reading assignment “Week 5: Properties of Functions” in zyBooks
+* [x] Complete the reading assignment “Week 5: Composition of Functions and the Inverse Function” in zyBooks
+* [x] Attend the weekly webinar.
+* [x] Solve homework assignment that will be posted on Friday
 
 ## Objectives
 
