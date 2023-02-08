@@ -12,7 +12,7 @@ You should plan the week as follows:
 * [x] Complete the reading assignment “Week 3: Sets Operations” in zyBooks
 * [x] Complete the reading assignment “Week 3: Sets Identities” in zyBooks
 * [x] Attend the weekly webinar. If you can't attend in person, there will be a recording of this webinar available later that day
-* [ ] Solve homework assignment that will be posted on Friday.
+* [x] Solve homework assignment that will be posted on Friday.
 
 ## Objectives
 
