@@ -4,7 +4,7 @@ This week we will continue to talk about functions, and start talking about comb
 
 You should plan the week as follows:
 
-* [ ] You may want to re-watch “Module 8 – Functions” video. And/or re-read pages 181-240, 251-292 in the “Problem Solving with C++” textbook (chapters 4 and 5)
+* [x] You may want to re-watch “Module 8 – Functions” video. And/or re-read pages 181-240, 251-292 in the “Problem Solving with C++” textbook (chapters 4 and 5)
 * [ ] Complete the reading assignment “Week 7: Counting Basics” in zyBooks
 * [ ] Complete the reading assignment “Week 7: Permutations and Combinations” in zyBooks
 * [ ] Complete the reading assignment “Week 7: Additional Topics” in zyBooks
