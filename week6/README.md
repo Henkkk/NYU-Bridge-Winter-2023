@@ -11,12 +11,12 @@ Another topic we will cover this week is how to measure the performance of our p
 
 You should plan the week as follows:
 
-* [ ] Watch “Module 7 – Algorithm Analysis” video. 
-* [ ] Read pages 181-240, 251-292 in the “Problem Solving with C++” textbook (chapters 4 and 5)
-* [ ] Watch “Module 8 – Functions” video. Introducing running time analysis and the big-O notation
-* [ ] Read pages 51-70 in the “Data structures and Algorithms in C++” textbook (chapter 2)
-* [ ] Attend the weekly webinar.
-* [ ] Solve homework assignment that will be posted on Friday 
+* [x] Watch “Module 7 – Algorithm Analysis” video. 
+* [x] Read pages 181-240, 251-292 in the “Problem Solving with C++” textbook (chapters 4 and 5)
+* [x] Watch “Module 8 – Functions” video. Introducing running time analysis and the big-O notation
+* [x] Read pages 51-70 in the “Data structures and Algorithms in C++” textbook (chapter 2)
+* [x] Attend the weekly webinar.
+* [x] Solve homework assignment that will be posted on Friday 
 
 ## Objectives
 
