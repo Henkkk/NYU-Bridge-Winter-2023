@@ -9,7 +9,7 @@ You should plan the week as follows:
 * [x] Complete the reading assignment “Week 7: Permutations and Combinations” in zyBooks
 * [x] Complete the reading assignment “Week 7: Additional Topics” in zyBooks
 * [x] Attend the weekly webinar.
-* [ ] Solve homework assignment that will be posted on Friday 
+* [x] Solve homework assignment that will be posted on Friday 
 
 
 ## Objective
