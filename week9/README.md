@@ -1,6 +1,6 @@
 ## Agenda
 
-* [ This week we are studying pointers and dynamic arrays and we introduce our first STL data structure, the Vector!  
+This week we are studying pointers and dynamic arrays and we introduce our first STL data structure, the Vector!  
 
 Pointers are incredibly powerful in C++, but can also bring to light potentially catastrophic problems with your code.  If you find that your code compiles but crashes when you run it, this is a classic sign of a pointer error.
 
