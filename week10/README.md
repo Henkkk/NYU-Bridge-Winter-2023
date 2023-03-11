@@ -4,10 +4,10 @@ This week we will continue using pointers, dynamic arrays, and the Vector data s
 
 You should plan the week as follows:
 
-You may want to re-watch “Module 11 – Pointers and Dynamic Storage” video.
-You may also want to re-read “Problem solving with C++” by Walter Savitch, chapters 8.3 and all of 9 (pages 489-534)
-Attend the weekly webinar.
-Solve homework assignment that will be posted on Friday
+* [ ] You may want to re-watch “Module 11 – Pointers and Dynamic Storage” video. </br>
+* [ ] You may also want to re-read “Problem solving with C++” by Walter Savitch, chapters 8.3 and all of 9 (pages 489-534). </br>
+* [ ] Attend the weekly webinar. </br>
+* [ ] Solve homework assignment that will be posted on Friday. </br>
 
 
 ## Objective
