@@ -5,18 +5,18 @@ This week we will talk about a new and powerful problem solving technique – re
 
 You should plan the week as follows:
 
-Watch “Recursions – Part 1”, “Recursions – Part 2” and “Recursions – Part 3” videos. Introducing the concept of recursion.
-Read related topics of chapter "7. Induction and Recursion" in zyBooks
-Read pages 789-822 in the “Problem Solving with C++” textbook (part of chapter 14)
-Read pages 6-12 in the “Data Structures and Algorithms Analysis in C++” textbook (sections 1.2.5 and 1.3)
-Attend the weekly webinar
-Solve homework assignment that will be posted on Friday
-Study for the midterm!
+* [ ] Watch “Recursions – Part 1”, “Recursions – Part 2” and “Recursions – Part 3” videos. Introducing the concept of recursion.
+* [ ] Read related topics of chapter "7. Induction and Recursion" in zyBooks
+* [ ] Read pages 789-822 in the “Problem Solving with C++” textbook (part of chapter 14)
+* [ ] Read pages 6-12 in the “Data Structures and Algorithms Analysis in C++” textbook (sections 1.2.5 and 1.3)
+* [ ] Attend the weekly webinar
+* [ ] Solve homework assignment that will be posted on Friday
+* [ ] Study for the midterm!
 
 ## Objectives
 
 Make sure that by the end of this week you:
 
-Are able to prove statements using mathematical induction technique (regular form and strong induction)
-Are able solve computational problems using recursions
-See the similarities between induction and recursion
+Are able to prove statements using mathematical induction technique (regular form and strong induction) </br>
+Are able solve computational problems using recursions </br>
+See the similarities between induction and recursion </br>
