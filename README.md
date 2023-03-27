@@ -19,3 +19,6 @@ https://docs.google.com/document/d/1aZkYSM0QDneIkuwoyN0Uhv_vcYfhTuzm01thJnMF9iA/
 
 NYU Tandon Bridge to Master's Information Session
 https://nyu.zoom.us/rec/play/OMs_KgVvc4b7ieHRMZAKJG_xmeGi0potcDtDxh6vtcsS5QgDGTLmXPALXPZmuL64Dbn5RlY-vsO_I0dV.ZakDV6tCrKrxrsoM?continueMode=true&_x_zm_rtaid=uUgUpw62SFeV5pHl4NqTYg.1675485603391.6bf0273b52d8239a8d3fb75690a6f09e&_x_zm_rhtaid=633
+
+Reddit thread about what to expect in Tandon Bridge
+https://www.reddit.com/r/NYUBridgeToTandon/comments/vguicj/what_to_expect_in_nyu_bridge_to_tandon/
