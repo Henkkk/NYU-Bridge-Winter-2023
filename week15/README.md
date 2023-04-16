@@ -11,7 +11,7 @@ Attend the weekly webinar (Thursday 8:00pm).
 ### Objectives
 By the end of this week, you should:
 
-Open files for input and output
-Read a complex data set from a file
-Understand the benefits and disadvantages of Linked Lists
-Be able to implement a simple (singular) linked list class 
+Open files for input and output </br>
+Read a complex data set from a file </br>
+Understand the benefits and disadvantages of Linked Lists </br>
+Be able to implement a simple (singular) linked list class </br>
