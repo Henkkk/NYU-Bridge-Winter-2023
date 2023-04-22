@@ -4,9 +4,10 @@ Savitch 9ed
 P370/371
 
 Programming Project #1, 
-
 PP#2, 
-
 PP#4
-
 PP#8
+
+
+weiss 4ed
+3.4, 3.6, 3.15
