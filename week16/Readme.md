@@ -3,15 +3,15 @@ This week we will be concentrating on data structures and in doing so, switching
 
 For this week:
 
-View the videos on Stacks and Queues
-Read sections 3.6, 3.7
-Join the Thursday 8PM webinar, or view it on Thursday after the event.
+* [ ] View the videos on Stacks and Queues
+* [ ] Read sections 3.6, 3.7
+* [ ] Join the Thursday 8PM webinar, or view it on Thursday after the event.
 
 ## Objectives
 The data structures we’re discussing this week is Stacks and Queues.  Ultimately, we’d like you to be able to understand who these fundamental data types work and are used in Computer Science.
 
 At the end of the week, you should be able to:
 
-Understand how a stack is designed
-Understand how a queue is designed
-Be able to choose an appropriate data structure for a task.
+Understand how a stack is designed. </br>
+Understand how a queue is designed. </br>
+Be able to choose an appropriate data structure for a task. </br>
