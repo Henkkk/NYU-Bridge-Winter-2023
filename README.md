@@ -22,3 +22,6 @@ https://nyu.zoom.us/rec/play/OMs_KgVvc4b7ieHRMZAKJG_xmeGi0potcDtDxh6vtcsS5QgDGTL
 
 Reddit thread about what to expect in Tandon Bridge
 https://www.reddit.com/r/NYUBridgeToTandon/comments/vguicj/what_to_expect_in_nyu_bridge_to_tandon/
+
+Source control in VSC (using git):
+https://www.youtube.com/watch?v=i_23KUAEtUM
