@@ -6,3 +6,9 @@ https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
 
 AVL Tree Visualization
 https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+
+Notes from TA Ethan:
+avl tree: https://www.craft.do/s/tS7c2NhvxDXTxQ](https://www.craft.do/s/tS7c2NhvxDXTxQ
+rbt: https://www.craft.do/s/EivqJ9gYeHUO5Z](https://www.craft.do/s/EivqJ9gYeHUO5Z
+quick sort: https://www.craft.do/s/Pm7Nfk4ts9zfnc](https://www.craft.do/s/Pm7Nfk4ts9zfnc
+algo comparison: https://www.craft.do/s/eeh5stzcV83LRA](https://www.craft.do/s/eeh5stzcV83LRA
