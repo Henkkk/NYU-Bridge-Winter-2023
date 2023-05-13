@@ -9,7 +9,7 @@ Join our webinar (Wednesday 8PM). </br>
 
 ## Objective
 By the end of the week, students should:
-
-Be able to identify layers of interaction
-Be able to identify the major parts of an OS
-Understand the Windows and Unix design models
+ 
+Be able to identify layers of interaction. </br>
+Be able to identify the major parts of an OS. </br>
+Understand the Windows and Unix design models. </br>
