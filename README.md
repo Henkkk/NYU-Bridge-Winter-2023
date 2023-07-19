@@ -1,6 +1,6 @@
 # NYU-Bridge-Winter-2023
 
-This is the repository where I will put all my work from week 1 to week 24. <br />
+This is the repository where I will put all my work from week 1 to week 24. My final grade is A-. <br />
 
 Course start date: 3rd Jan 2023 <br />
 Course end date: 17th June 2023 <br />
